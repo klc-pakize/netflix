@@ -8,9 +8,7 @@
 body{
     background-image: url(/images/TR-tr-20220801-popsignuptwoweeks-perspective_alpha_website_large.jpg);
     /* background-color: rgba(15, 14, 14, 0.993); */
-   
 }
-
 
 .header{
     
@@ -21,10 +19,8 @@ body{
     /* margin: 100px; */
     font-size:50px;
     color: #fff;
-    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
 }
-
 
 .header1{
     /* border: 1px solid red; */
@@ -35,9 +31,7 @@ body{
     font-size:30px;
     color: #fff;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    
 }
-
 
 .div1{
     /* border: 5px solid red; */
@@ -77,18 +71,21 @@ body{
     border-radius: 5px;
     
 }
+
 #lname{
     border: 1px solid rgba(0, 0, 0, 0.548);
     height: 35px;
     width: 250px;
     border-radius: 5px;
 }
+
 #mail{
     border: 1px solid rgba(0, 0, 0, 0.548);
     height: 35px;
     width: 250px;
     border-radius: 5px;
 }
+
 #pword{
     border: 1px solid rgba(0, 0, 0, 0.548);
     height: 35px;
@@ -96,6 +93,7 @@ body{
     border-radius: 5px;
     
 }
+
 #send{
     border: 1px solid rgba(0, 0, 0, 0.548);
     height: 35px;
