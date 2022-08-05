@@ -10,6 +10,10 @@ body{
     /* background-color: rgba(15, 14, 14, 0.993); */
 }
 
+#span{
+    color: red;
+}
+
 .header{
     
     /* border: 1px solid red; */
@@ -109,6 +113,3 @@ body{
     border-radius: 5px;
 }
 
-#span{
-    color: red;
-}
